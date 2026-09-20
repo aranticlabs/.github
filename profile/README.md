@@ -1,4 +1,4 @@
-[![Arantic Digital — Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/6161b70d3c88cca4311da6ddd582e57fec466841/profile/aranticlabs-profile-assets/hero.gif)](https://arantic.com)
+[![Arantic Digital — Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/6a0033ad82159ddbc6f5c57e268239be0ceda35f/profile/aranticlabs-profile-assets/hero.gif)](https://arantic.com)
 
 ### Enterprise focus. Engineering curiosity.
 

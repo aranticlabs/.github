@@ -1,15 +1,33 @@
-# Arantic Labs
+<a href="https://arantic.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/arantic-logo-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/arantic-logo-light.svg" width="300" alt="Arantic Digital" />
+  </picture>
+</a>
 
-Open source projects from **[Arantic Digital](https://arantic.com)**.
+![Arantic Digital — Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/hero.gif)
 
-## Projects
+### Enterprise focus. Engineering curiosity.
 
-### [BugPin](https://github.com/aranticlabs/bugpin)
+We’re **[Arantic Digital](https://arantic.com)**. We bring business understanding, software engineering, and AI together to build solutions for the way organizations work.
 
-Self-hosted bug reporting widget. Capture bug reports with screenshots and technical details directly in your app.
+**Arantic Labs is where we share our open-source work:** products, tools, and resources for people building and running software.
 
-[Documentation](https://docs.bugpin.io)
+<a href="https://github.com/aranticlabs/bugpin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/bugpin-logo-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/bugpin-logo-light.svg" width="220" alt="BugPin" />
+  </picture>
+</a>
+
+**Clearer bug reports. Less back-and-forth.**
+
+Self-hosted visual bug reporting. Capture screenshots and technical details directly in your app, giving your team the context to understand what went wrong.
+
+[![BugPin dashboard in dark mode, showing report counts, statuses, and recent bug reports.](https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/bugpin-dashboard-dark.png)](https://github.com/aranticlabs/bugpin)
+
+[Explore BugPin ↗](https://github.com/aranticlabs/bugpin) · [Documentation ↗](https://docs.bugpin.io)
 
 ---
 
-**Website**: [arantic.com](https://arantic.com) · **Contact**: admin@arantic.com
+[Arantic Digital ↗](https://arantic.com) · [LinkedIn ↗](https://www.linkedin.com/company/arantic)

@@ -2,13 +2,11 @@
 
 ### Enterprise focus. Engineering curiosity.
 
-**[Arantic Digital](https://arantic.com)** helps businesses improve how they work through software, AI, and automation. We design, develop, and integrate tailored IT solutions that streamline processes, connect teams, and turn business information into action.
+**[Arantic Digital](https://arantic.com) builds software products and AI solutions that help organizations work better.** Our focus is on improving business processes, making information useful, and giving teams better tools.
 
-Our work spans consulting, custom software development, systems integration, and process automation, supported by training and ongoing technical support. We work closely with our clients to understand where processes fall short, identify what needs to change, and build solutions around their specific needs.
+We develop the products and help organizations put them to work—from deployment and integration to customization where needed.
 
-The goal is measurable improvement: less manual effort, better access to information, and teams equipped to work more effectively. From the first discussion through implementation and continued operation, we bring business understanding and hands-on engineering together.
-
-**Arantic Labs is where we share our open-source work:** products, tools, and resources for people building and running software.
+**Explore our open-source projects below.**
 
 ## Our projects
 

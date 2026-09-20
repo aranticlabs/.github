@@ -2,9 +2,15 @@
 
 ### Enterprise focus. Engineering curiosity.
 
-We’re **[Arantic Digital](https://arantic.com)**. We bring business understanding, software engineering, and AI together to build solutions for the way organizations work.
+**[Arantic Digital](https://arantic.com)** helps businesses improve how they work through software, AI, and automation. We design, develop, and integrate tailored IT solutions that streamline processes, connect teams, and turn business information into action.
+
+Our work spans consulting, custom software development, systems integration, and process automation, supported by training and ongoing technical support. We work closely with our clients to understand where processes fall short, identify what needs to change, and build solutions around their specific needs.
+
+The goal is measurable improvement: less manual effort, better access to information, and teams equipped to work more effectively. From the first discussion through implementation and continued operation, we bring business understanding and hands-on engineering together.
 
 **Arantic Labs is where we share our open-source work:** products, tools, and resources for people building and running software.
+
+## Our projects
 
 <a href="https://github.com/aranticlabs/bugpin">
   <picture>

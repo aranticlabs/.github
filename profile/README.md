@@ -1,12 +1,10 @@
 [![Arantic Digital: Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/6a0033ad82159ddbc6f5c57e268239be0ceda35f/profile/aranticlabs-profile-assets/hero.gif)](https://arantic.com)
 
-### Enterprise focus. Engineering curiosity.
+**[Arantic Digital](https://arantic.com) builds software products and AI solutions for businesses.** Our products address how teams access company knowledge, automate recurring tasks, and report software issues.
 
-**[Arantic Digital](https://arantic.com) builds software products and AI solutions that help organizations work better.** We focus on improving business processes, connecting information, and giving teams the tools to turn knowledge into action.
+We combine software engineering, AI integration, and product development. Working directly with customers helps us identify practical needs and decide how our products should evolve.
 
-Our work brings together product development, software architecture, AI integration, and automation. We work closely with customers to understand their challenges and use that insight to shape practical, reliable products.
-
-We also help organizations put those products into operation. This includes deployment, integration, customization, training, and ongoing support. These services support the products and their adoption.
+We support adoption through deployment, integration, customization, training, and ongoing support.
 
 **Explore our open source projects below.**
 

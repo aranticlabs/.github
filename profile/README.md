@@ -1,4 +1,4 @@
-[![Arantic Digital: Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/6a0033ad82159ddbc6f5c57e268239be0ceda35f/profile/aranticlabs-profile-assets/hero.gif)](https://arantic.com)
+[![Arantic Digital: Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/dc7f085069a9488637d7cc8855a6a32cb907e0b7/profile/aranticlabs-profile-assets/hero.gif)](https://arantic.com)
 
 **[Arantic Digital](https://arantic.com) builds software products and AI solutions for businesses.** Our products address how teams access company knowledge, automate recurring tasks, and report software issues.
 

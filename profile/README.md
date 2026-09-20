@@ -1,11 +1,4 @@
-<a href="https://arantic.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/arantic-logo-dark.svg" />
-    <img src="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/arantic-logo-light.svg" width="300" alt="Arantic Digital" />
-  </picture>
-</a>
-
-![Arantic Digital — Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/hero.gif)
+[![Arantic Digital — Digital solutions. Built for enterprise.](https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/hero.gif)](https://arantic.com)
 
 ### Enterprise focus. Engineering curiosity.
 
@@ -16,7 +9,7 @@ We’re **[Arantic Digital](https://arantic.com)**. We bring business understand
 <a href="https://github.com/aranticlabs/bugpin">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/bugpin-logo-dark.svg" />
-    <img src="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/bugpin-logo-light.svg" width="220" alt="BugPin" />
+    <img src="https://raw.githubusercontent.com/aranticlabs/.github/main/profile/aranticlabs-profile-assets/bugpin-logo-light.svg" width="160" alt="BugPin" />
   </picture>
 </a>
 
